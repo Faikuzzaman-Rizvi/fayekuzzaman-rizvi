@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fayekuzzaman-rizvi/static/css/main.f0babf9b.css",
+    "main.js": "/fayekuzzaman-rizvi/static/js/main.fd1966ab.js",
+    "index.html": "/fayekuzzaman-rizvi/index.html",
+    "main.f0babf9b.css.map": "/fayekuzzaman-rizvi/static/css/main.f0babf9b.css.map",
+    "main.fd1966ab.js.map": "/fayekuzzaman-rizvi/static/js/main.fd1966ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0babf9b.css",
+    "static/js/main.fd1966ab.js"
+  ]
+}
