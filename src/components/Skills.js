@@ -65,6 +65,28 @@ const Skills = () => {
             </div>
           </div>
         </div>
+        <div className="border-t border-white/10 pt-20">
+          <h3 className="text-2xl font-bold mb-8 tracking-tight">Work Experience</h3>
+          <div className="max-w-4xl border border-white/10 p-8 hover:border-white/30 transition-all duration-300">
+            <div className="flex items-start gap-6">
+              <div className="p-4 bg-white/5 flex-shrink-0">
+                <Award size={24} />
+              </div>
+              <div className="flex-1">
+                <h4 className="text-xl font-bold mb-2">Web Developer | Trainee</h4>
+                <p className="text-gray-400 mb-3">Solution Hub Technology</p>
+                <div className="flex flex-wrap gap-4 text-sm text-gray-500 mb-4">                
+                  <span>2024 – 2025</span>
+                </div>
+                 <p className="text-gray-400 leading-relaxed">
+                  Built and maintained dynamic web applications using PHP and Laravel for live client projects.
+                  Collaborated with development team to deliver new features and fix bugs efficiently.
+                  Contributed to full development cycle in Agile setup, gaining hands-on experience in real-world coding, testing, and deployment.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
   );

@@ -2,6 +2,18 @@ import { Code, Database, Globe, Wrench } from 'lucide-react';
 
 export const projects = [
   {
+    title: "HRMS–Human Resource Management System(OnGoing)",
+    description: "A full-featured HRMS covering users, roles, company structure, employee management,recruitment, training, leave, attendance, and reporting.",
+    tech: [" ASP.NET Core, Angular, EF Core, REST API, MS SQL Server"],
+    github: "https://github.com/Faikuzzaman-Rizvi/HRMS-HumanResourceManagementSystem.git"
+  },
+  {
+    title: "Football Club Management System",
+    description: "Developed a master-detail full-stack app where clubs manage players, supporting CRUD operations, file uploads, and relational data handling.",
+    tech: ["ASP.NET Core, Angular, EF Core, REST API, SQL Server"],
+    github: "https://github.com/Faikuzzaman-Rizvi/FootballClubApp.git"
+  },
+  {
     title: "Patient Management System",
     description: "Developed a secure healthcare API with token-based authentication (JWT), managing patient-test relationships using the repository pattern and ensuring full data validation.",
     tech: ["ASP.NET MVC 5", "Web API 2", "JWT", "EF Core", "MS SQL"],
@@ -24,6 +36,12 @@ export const projects = [
     description: "Developed an e-commerce platform with real-time cart updates and stock notifications using Socket.IO, backed by MongoDB for data storage and a responsive frontend.",
     tech: ["Node.js", "MongoDB", "Socket.IO", "jQuery"],
     github: "https://github.com/Faikuzzaman-Rizvi/Book-Shop.git"
+  },
+  {
+    title: "E-Commerce-MS-SQL-Project",
+    description: "Designed a database-driven e-commerce system with order processing, stock tracking, discounts, and sales analytics using advanced SQLfeatures.",
+    tech: ["SQL Server, T-SQL, Stored Procedures, Views, Functions, Triggers"],
+    github: "https://github.com/Faikuzzaman-Rizvi/E-MS-SQL-Project.git"
   }
 ];
 
