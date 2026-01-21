@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fayekuzzaman-rizvi/static/css/main.f0babf9b.css",
-    "main.js": "/fayekuzzaman-rizvi/static/js/main.c4e23791.js",
+    "main.js": "/fayekuzzaman-rizvi/static/js/main.29700f9c.js",
     "index.html": "/fayekuzzaman-rizvi/index.html",
     "main.f0babf9b.css.map": "/fayekuzzaman-rizvi/static/css/main.f0babf9b.css.map",
-    "main.c4e23791.js.map": "/fayekuzzaman-rizvi/static/js/main.c4e23791.js.map"
+    "main.29700f9c.js.map": "/fayekuzzaman-rizvi/static/js/main.29700f9c.js.map"
   },
   "entrypoints": [
     "static/css/main.f0babf9b.css",
-    "static/js/main.c4e23791.js"
+    "static/js/main.29700f9c.js"
   ]
 }
